@@ -1,0 +1,1 @@
+removed exit_program method call from ffmpeg.c main() method
